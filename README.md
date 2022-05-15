@@ -2,17 +2,17 @@
 
 Permite hacer consultas con voz a Paulina:
 
-- Abrir YouTube"
-- Abrir Google"
-- Qué día es hoy"
-- Qué hora es"
-- Buscar en Wikipedia"
-- Buscar en Internet"
-- Reproducir en YouTube"
-- Contar chiste"
-- Repetir chiste"
-- Precio de las acciones"
-- Salir"
+- Abrir YouTube
+- Abrir Google
+- Qué día es hoy
+- Qué hora es
+- Buscar en Wikipedia
+- Buscar en Internet
+- Reproducir en YouTube
+- Contar chiste
+- Repetir chiste
+- Precio de las acciones
+- Salir
 
 # Ejecucion:
 ```
